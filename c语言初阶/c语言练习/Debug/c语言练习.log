@@ -1,0 +1,5 @@
+﻿D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(c语言练习.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  c语言初阶.cpp
+D:\练习C语言\c语言初阶\c语言练习\c语言初阶.cpp(1343,9): warning C4101: “b”: 未引用的局部变量
+D:\练习C语言\c语言初阶\c语言练习\c语言初阶.cpp(1345): warning C4700: 使用了未初始化的局部变量“a”
+  c语言练习.vcxproj -> D:\练习C语言\c语言初阶\Debug\c语言初阶练习.exe
