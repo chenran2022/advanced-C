@@ -611,7 +611,7 @@
 //	int i=0;
 //	for (i = 0; i < width; i++)
 //	{
-//		int tmp;
+//		char tmp;
 //		tmp = * buf1;
 //		*buf1 = *buf2;
 //		*buf2 = tmp;
@@ -637,7 +637,7 @@
 //				//交换	
 //				Swap((char*)base + j * width, (char*)base + (j + 1) * width, width);
 //
-//				//int tmp;
+//				//char tmp;
 //				//tmp = *((char*)base + j * width);
 //				//*((char*)base + j * width) = *((char*)base + (j + 1) * width);
 //				//*((char*)base + (j + 1) * width) = tmp;
